@@ -1,0 +1,20 @@
+
+Contiguous Allocation :
+Internal Fragmentation: 15
+External Fragmentation: 0
+File access time: 6.73201e+09
+
+Linked Allocation :
+Internal Fragmentation: 15
+External Fragmentation: 0
+File access time: 6.73207e+09
+
+Indexed Allocation :
+Internal Fragmentation: 6
+External Fragmentation: 0
+File access time: 6.73208e+09
+
+Modified Contiguous Allocation :
+Internal Fragmentation: 15
+External Fragmentation: 0
+File access time: 6.73162e+09
